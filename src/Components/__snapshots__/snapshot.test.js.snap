@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlightService Should return a list of flights 1`] = `
+Object {
+  "arrivalDatetime": "2018-06-15T21:00:00",
+  "departure": "DUB",
+  "departureDatetime": "2018-06-15T17:25:00",
+  "destination": "WRO",
+  "flightNumber": "FR153",
+}
+`;

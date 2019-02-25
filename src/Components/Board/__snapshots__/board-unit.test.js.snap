@@ -1,0 +1,549 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`square renders without crashing 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Board
+    squares={
+        Array [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+          ]
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="board-row"
+>
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+</div>,
+        <div
+          className="board-row"
+>
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+</div>,
+        <div
+          className="board-row"
+>
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+          <Unknown
+                    onClick={[Function]}
+                    value={null}
+          />
+</div>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+          ],
+          "className": "board-row",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+          ],
+          "className": "board-row",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+            <Unknown
+              onClick={[Function]}
+              value={null}
+/>,
+          ],
+          "className": "board-row",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="board-row"
+>
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+</div>,
+          <div
+            className="board-row"
+>
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+</div>,
+          <div
+            className="board-row"
+>
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+            <Unknown
+                        onClick={[Function]}
+                        value={null}
+            />
+</div>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+            ],
+            "className": "board-row",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+            ],
+            "className": "board-row",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+              <Unknown
+                onClick={[Function]}
+                value={null}
+/>,
+            ],
+            "className": "board-row",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+  Symbol(enzyme.__childContext__): null,
+}
+`;
