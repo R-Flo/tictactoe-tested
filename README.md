@@ -1,6 +1,5 @@
 #Tic Tac Toe Tested
 
-tictactoe-tested
 
 Simply tested tic tac toe react
 
